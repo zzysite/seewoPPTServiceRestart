@@ -1,0 +1,2 @@
+# seewoPPTServiceRestart
+为了让老师授课时解决希沃PPT小工具闪退的问题，故特意写了这个程序
